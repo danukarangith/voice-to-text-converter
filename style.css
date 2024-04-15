@@ -34,6 +34,10 @@ button{
     border: 0;
     border-radius: 5px;
 }
+.page-head{
+    padding-left: 20%;
+    padding-top: 3%;
+}
 
 /* bootstrap css done here */
 .navbar .container-fluid .navbar-brand{
