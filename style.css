@@ -34,6 +34,8 @@ button{
     border: 0;
     border-radius: 5px;
 }
+
+/* bootstrap css done here */
 .navbar .container-fluid .navbar-brand{
     color: red;
     font-size: 2rem;
