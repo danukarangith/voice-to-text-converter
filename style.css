@@ -2,16 +2,18 @@ body{
     font-family: arial;
     font-size: 16px;
     margin: 0;
-    background: linear-gradient(to right bottom,#d13cff,#031f6a);
+    /* background: linear-gradient(to right bottom,#d13cff,#031f6a);
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 100vh; */
     color: #000;
 }
 .voice-to-text{
     width: 600px;
     text-align: center;
+    margin-left: 32%;
+    margin-top: 20%;
 }
 #convert-text{
     width: 100%;
@@ -31,4 +33,9 @@ button{
     background: #0ea4da;
     border: 0;
     border-radius: 5px;
+}
+.navbar .container-fluid .navbar-brand{
+    color: red;
+    font-size: 2rem;
+    font-weight: bold;
 }
