@@ -5,3 +5,7 @@ body{
     background: fff;
     color: #000;
 }
+.voice-to-text{
+    width: 600px;
+    text-align: center;
+}
