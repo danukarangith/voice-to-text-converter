@@ -16,7 +16,7 @@ body{
     margin-top: 10%;
 }
 #convert-text{
-    width: 800px;
+    width: 650px;
     height: 300px;
     border-radius: 10px;
     resize: none;
@@ -26,6 +26,7 @@ body{
 }
 .voice-to-text h1{
     font-size: 30px;
+    color: red;
      
      
 }
