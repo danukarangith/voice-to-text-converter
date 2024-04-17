@@ -14,14 +14,8 @@ click_to_record.addEventListener('click',function(){
         document.getElementById("convert_text").innerHTML = transcript;
         console.log(transcript);
     });
-
-    recognition.addEventListener('end', () => {
-        if (speech == true) {
-            recognition.start();
-        }
-    });
-
+    
     if (speech == true) {
         recognition.start();
     }
-});
+})
