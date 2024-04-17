@@ -36,6 +36,10 @@ button{
     border: 0;
     border-radius: 5px;
 }
+.fa-solid{
+    height:20px;
+    padding-right: 4px;
+}
 .page-head{
     margin-left: 25%;
     margin-top: 3%;
