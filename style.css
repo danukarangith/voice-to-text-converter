@@ -24,9 +24,10 @@ body{
     font-size: 20px;
     margin-bottom: 10px;
 }
-h1{
-    font-size: 50px;
-    color: white;
+.voice-to-text h1{
+    font-size: 30px;
+     
+     
 }
 button{
     padding: 12px 20px;
