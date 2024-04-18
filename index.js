@@ -38,7 +38,7 @@ function stopSpeechRecognition() {
 
 
 
-
+// dark mode function
 function myFunction() {
     var element = document.body;
     element.dataset.bsTheme =
