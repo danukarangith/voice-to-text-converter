@@ -69,7 +69,7 @@ button{
     letter-spacing: .15em;
     animation:
       typing 3.5s steps(40, end) infinite,
-      blink-caret .75s step-end infinite;
+      blink-caret .90s step-end infinite;
   }
   
   @keyframes typing {
