@@ -8,7 +8,11 @@ body{
     justify-content: center;
     min-height: 100vh; */
     color: #000;
+    
+    
+
 }
+ 
 .voice-to-text{
     width: 600px;
     text-align: center;

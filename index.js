@@ -35,3 +35,8 @@ function startSpeechRecognition() {
 function stopSpeechRecognition() {
      recognition.stop();
 }
+
+
+
+
+
