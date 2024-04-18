@@ -12,6 +12,10 @@ body{
     
 
 }
+.form-check{
+    margin-top: 8px;
+    margin-left: 3px;
+}
  
 .voice-to-text{
     width: 600px;
